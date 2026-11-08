@@ -26,7 +26,7 @@ Before going independent in February 2025, I spent 9+ years in ads and analytics
 
 My work sits where growth, analytics and product meet engineering, so the tools I build start from how teams actually make decisions.
 
-If you're working on growth, measurement or agents and want a hand, get in touch:
+If you're working on growth, analytics, measurement, data pipelines, AI products or agents and want a hand, get in touch:
 
 - [dbenger.com](https://dbenger.com)
 - [three-dots.dev](https://three-dots.dev)
